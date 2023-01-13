@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\cs04.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\cs04.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\obj\Debug\net5.0\ref\cs04.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs04\bin\Debug\net5.0\ref\cs04.dll

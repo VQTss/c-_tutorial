@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\bin\Debug\net5.0\cs06.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\ref\cs06.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\cs06.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs06\obj\Debug\net5.0\refint\cs06.dll

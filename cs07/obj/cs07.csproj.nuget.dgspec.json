@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs07\\cs07.csproj": {}
+  },
+  "projects": {
+    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs07\\cs07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs07\\cs07.csproj",
+        "projectName": "cs07",
+        "projectPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs07\\cs07.csproj",
+        "packagesPath": "C:\\Users\\thaiq\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs07\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thaiq\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
