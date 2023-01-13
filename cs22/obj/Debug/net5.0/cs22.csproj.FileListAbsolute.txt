@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\bin\Debug\net5.0\cs22.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\refint\cs22.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\cs22.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs22\obj\Debug\net5.0\ref\cs22.dll

@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\bin\Debug\net5.0\solve.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\refint\solve.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\solve.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\solve\obj\Debug\net5.0\ref\solve.dll

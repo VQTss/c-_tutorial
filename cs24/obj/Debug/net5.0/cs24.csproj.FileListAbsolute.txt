@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\bin\Debug\net5.0\cs24.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\refint\cs24.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\cs24.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs24\obj\Debug\net5.0\ref\cs24.dll

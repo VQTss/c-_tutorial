@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\bin\Debug\net5.0\cs20.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\refint\cs20.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\cs20.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs20\cs20\obj\Debug\net5.0\ref\cs20.dll
