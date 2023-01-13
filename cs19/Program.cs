@@ -12,9 +12,9 @@ namespace cs19
                 throw new NameEmptyException();
             }
 
-            if (age < 18 || age > 20)
+            if (age < 18 || age > 100)
             {
-                
+                throw new AgeException(age);
             }
             Console.WriteLine($"Hello {name} - ({age})");
         }
@@ -24,13 +24,16 @@ namespace cs19
 
             try
             {
-                Register("",20);
+                Register("Vo Quoc Thai ",15);
             }
             catch (NameEmptyException nne)
             {
                 Console.WriteLine(nne.Message);
             }
-
+            catch(AgeException a ){
+                Console.WriteLine(a.Message);
+                a.AgeExceptionDetail();
+            }
 
 
 
