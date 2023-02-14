@@ -2,6 +2,8 @@
 
 namespace cs01
 {
+
+    // Điều kiện if else
     class Program
     {
         static void Main(string[] args)

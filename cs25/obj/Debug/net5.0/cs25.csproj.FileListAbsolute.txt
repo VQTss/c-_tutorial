@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\bin\Debug\net5.0\cs25.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\refint\cs25.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\cs25.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs25\obj\Debug\net5.0\ref\cs25.dll

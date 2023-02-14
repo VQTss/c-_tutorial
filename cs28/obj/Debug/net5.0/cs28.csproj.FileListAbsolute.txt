@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\bin\Debug\net5.0\cs28.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\refint\cs28.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\cs28.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs28\obj\Debug\net5.0\ref\cs28.dll
