@@ -1,5 +1,11 @@
 ﻿using System;
 
+
+
+
+/*
+    Cấu trúc vòng lặp 
+*/
 namespace cs03
 {
     class Program
@@ -15,6 +21,8 @@ namespace cs03
             {
                 Console.WriteLine("Số i = " + i);
             }
+
+            
             /*
             while(câu lệnh điều kiện){
                 câu lệnh thực thi

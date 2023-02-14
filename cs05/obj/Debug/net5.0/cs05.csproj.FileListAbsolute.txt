@@ -3,7 +3,6 @@ E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\cs05.deps.json
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\cs05.runtimeconfig.json
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\cs05.runtimeconfig.dev.json
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\cs05.dll
-E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\ref\cs05.dll
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\bin\Debug\net5.0\cs05.pdb
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\cs05.csproj.AssemblyReference.cache
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\cs05.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\cs05.dll
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\ref\cs05.dll
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\cs05.pdb
 E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\cs05.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs05\obj\Debug\net5.0\refint\cs05.dll

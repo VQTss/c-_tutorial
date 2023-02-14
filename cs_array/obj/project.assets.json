@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\thaiq\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj",
-      "projectName": "cs05",
-      "projectPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj",
+      "projectUniqueName": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_array\\cs_array.csproj",
+      "projectName": "cs_array",
+      "projectPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_array\\cs_array.csproj",
       "packagesPath": "C:\\Users\\thaiq\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\obj\\",
+      "outputPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thaiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",

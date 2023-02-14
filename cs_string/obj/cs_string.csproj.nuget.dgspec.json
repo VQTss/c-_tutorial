@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj": {}
+    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_string\\cs_string.csproj": {}
   },
   "projects": {
-    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj": {
+    "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_string\\cs_string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj",
-        "projectName": "cs05",
-        "projectPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\cs05.csproj",
+        "projectUniqueName": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_string\\cs_string.csproj",
+        "projectName": "cs_string",
+        "projectPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_string\\cs_string.csproj",
         "packagesPath": "C:\\Users\\thaiq\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs05\\obj\\",
+        "outputPath": "E:\\Learning_LanguageProgramming\\C#\\Tutorial\\cs_string\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
