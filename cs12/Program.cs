@@ -10,16 +10,21 @@ namespace cs12
         //     Console.WriteLine(d.Legs);
         //     d.Bark();
         // }
-         class Person {
-            protected int Age {get; set;}
-            protected string Name {get; set;}
+        class Person
+        {
+            protected int Age { get; set; }
+            protected string Name { get; set; }
         }
-        class Student : Person {
-            public Student(string nm) {
+        class Student : Person
+        {
+            public Student(string nm)
+            {
                 Name = nm;
             }
-            public void Speak() {
-                Console.Write("Name: "+Name);
+            public void Speak()
+            {
+                Console.Write("Name: " + Name);
+
             }
         }
         static void Main(string[] args)
@@ -32,7 +37,8 @@ namespace cs12
             Và chỉ được sử dụng class đó. Đồng thời không được sử dụng thông qua lớp khác
             */
             // s.Name = "Bob"; // Error 
-            person p = new person("Thai Vo",18,2000);
+
+            person p = new person("Thai Vo", 18, 2000);
             Console.WriteLine(p.Name);
             Console.WriteLine(p.Age);
             Console.WriteLine(p.ToString());
