@@ -1,14 +1,8 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 /*
 Namespace là cách tổ chức nhóm code (các lớp, giao diện, cấu trúc ...) thành những nhóm, 
 tạo ra phạm vi hoạt động của các thành phần trong nhóm
-
 */
-
-
 namespace mymynamespace
 {
     public class Class1

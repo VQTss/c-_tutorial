@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\bin\Debug\net5.0\cs_dynamic.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\refint\cs_dynamic.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\cs_dynamic.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\cs_dynamic\obj\Debug\net5.0\ref\cs_dynamic.dll

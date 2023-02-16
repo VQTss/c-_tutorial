@@ -1,0 +1,16 @@
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.exe
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.deps.json
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.runtimeconfig.json
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.runtimeconfig.dev.json
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\bin\Debug\net5.0\anonymus_example.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.csproj.AssemblyReference.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.AssemblyInfoInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.AssemblyInfo.cs
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.csproj.CoreCompileInputs.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\refint\anonymus_example.dll
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.pdb
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\anonymus_example.genruntimeconfig.cache
+E:\Learning_LanguageProgramming\C#\Tutorial\anonymus_example\obj\Debug\net5.0\ref\anonymus_example.dll
